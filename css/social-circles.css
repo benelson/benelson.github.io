@@ -187,10 +187,10 @@ a.social-button.grey {
 }
 
 a.social-button.grey:hover {
-    transform: translate(0px,-5px);
-    -webkit-transform: translate(0px,-5px);
-    -o-transform: translate(0px,-5px);
-    -moz-transform: translate(0px,-5px);
+    transform: translate(0px,0px);
+    -webkit-transform: translate(0px,0px);
+    -o-transform: translate(0px,0px);
+    -moz-transform: translate(0px,0px);
 }
 
 a.social-button.grey:before {
