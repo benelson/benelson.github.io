@@ -80,10 +80,10 @@
 
 /* socialbuttons */
 a.social-button{
-	font-size:32px;
+	font-size:16px;
 	text-decoration: none;
 	display:inline-block;
-	width: 0.5em;height:0.5em;
+	width: 0.25em;height:0.25em;
 }
 
 a.social-button.color {
@@ -182,7 +182,7 @@ a.social-button.grey {
     font-size: 32px;
     display: inline-block;
     background-color: #3D444D;
-    border-radius: 25%;
+    border-radius: 50%;
     padding: 1.0em;
 }
 
